@@ -1,4 +1,4 @@
-# CarDash Game🚘
+# CarDash Game🚗💨
 
 # Introduction:
 Welcome to the CarDash Game repository! This project is a fun and engaging 2D car racing game built using HTML, CSS, and JavaScript. 
